@@ -242,6 +242,7 @@ section .c{
     width: 26%;
     height: 20vh;
     cursor: pointer;
+    gap: 0.5rem;
 
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
 }
